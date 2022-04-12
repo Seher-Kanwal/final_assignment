@@ -1,0 +1,23 @@
+﻿h1,h2
+{
+    background-color:blanchedalmond;
+    color:brown;
+}
+#noid {
+    background-color: blanchedalmond;
+    color:chocolate;
+}
+.noway {
+    background-color: blanchedalmond;
+    color:darkkhaki;
+}
+table caption {
+    background-color: darksalmon;
+    color: darkred;
+    width: fit-content;
+    height: fit-content;
+}
+li:is(:hover){
+    color:gold;
+    background-color:black;
+}

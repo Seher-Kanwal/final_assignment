@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: final_assignment, Configuration: Debug Any CPU ------
+1>  final_assignment -> D:\New folder\final_assignment\bin\final_assignment.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
